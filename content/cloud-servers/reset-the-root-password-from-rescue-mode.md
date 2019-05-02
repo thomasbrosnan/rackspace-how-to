@@ -95,7 +95,7 @@ this task by using rescue mode:
        umount /mnt/rescue
 
 8. Exit out of Secure Shell (SSH), then exit rescue mode.
-9. Edit the **.ssh/know_host** file to remove the line
+9. Edit the **.ssh/know_hosts** file to remove the line
    for the server's IP address.
 
 10. If you are connecting from a Mac OS X or Linux system, you need to edit the
